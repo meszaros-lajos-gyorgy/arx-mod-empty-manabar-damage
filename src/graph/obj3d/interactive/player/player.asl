@@ -536,7 +536,7 @@ ON MAIN {
     ACCEPT
   }
 
-  // we can never truely reach 0.0 mana, but maybe 0.68263
+  // we can never truly reach 0.0 mana, but maybe 0.68263
   IF (^PLAYER_MANA < 1) {
     set @damage ^player_maxlife
     div @damage 10
