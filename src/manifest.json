@@ -1,0 +1,6 @@
+{
+  "name": "Empty manabar damage",
+  "description": "Makes the player take damage when his manapool completely drains.",
+  "author": "Lajos Mészáros<m_lajos@hotmail.com>",
+  "url": "https://github.com/meszaros-lajos-gyorgy/arx-mod-empty-manabar-damage"
+}
