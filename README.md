@@ -1,2 +1,3 @@
-# arx-mod-empty-manabar-death
-An Arx Fatalis challenge mod which makes the player die when his manapool completely drains.
+# arx-mod-empty-manabar-damage
+
+An Arx Fatalis challenge mod which makes the player take damage when his manapool completely drains.
